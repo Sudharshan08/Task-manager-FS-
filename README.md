@@ -4,6 +4,12 @@ Task-manager-FS-
 
  Project Overview
 This is a full-stack Task Manager application** that allows users to create, update, and delete tasks and lists. The app also includes user authentication with JWT tokens for secure access.
+**(Note1)**
+**(The confidetial credentials of this project is in .env file in the backend)**
+
+**(Note2)**
+**(The final project code is in final-progress branch)**
+**(The progress1 branch is the code which is pushed after 50% completion of project)**
 
  Table of Contents
 1. [How to Set Up and Run the Project](#setup)
