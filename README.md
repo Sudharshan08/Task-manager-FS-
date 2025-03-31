@@ -8,8 +8,8 @@ This is a full-stack Task Manager application** that allows users to create, upd
 **(The confidetial credentials of this project is in .env file in the backend)**
 
 **(Note2)**
-**(The final project code is in final-progress branch)**
-**(The progress1 branch is the code which is pushed after 50% completion of project)**
+**(The final project code is in final-output branch)**
+**(The progress1 and final-progress branch is the code which is pushed after partial segment completion of project)**
 
  Table of Contents
 1. [How to Set Up and Run the Project](#setup)
